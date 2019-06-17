@@ -5,13 +5,13 @@ Submission for Grab Traffic Challenge
 
 Run Instructions for Test Prediction:
 1. Installations:
-I. Python 3
-II. Open terminal and pip install dependencies:
-a) Jupyter Notebook
-b) Numpy
-c) Pandas
-d) Tensorflow
-e) Keras
+  I. Python 3
+  II. Open terminal and pip install dependencies:
+    a) Jupyter Notebook
+    b) Numpy
+    c) Pandas
+    d) Tensorflow
+    e) Keras
 2. Download all the files and folders from git repository
 (https://github.com/SamNgu/grab-challenge)
 3. Replace test.csv with your actual test.csv file
