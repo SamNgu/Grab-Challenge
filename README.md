@@ -16,7 +16,7 @@ e) Keras
 (https://github.com/SamNgu/grab-challenge)
 3. Replace test.csv with your actual test.csv file
 4. Ensure coords_mapping.csv is in current directory
-5. Open terminal and run Jupyter notebook
+5. Open terminal and start Jupyter notebook
 6. Open ‘3. Test_Prediction’ Notebook
 7. Run the whole notebook from the top to bottom
 8. Open ‘prediction_output.csv’ from folder for evaluation
