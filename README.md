@@ -4,6 +4,7 @@ Submission for Grab Traffic Challenge
 ! Make sure to replace the training.csv & test.csv with your CSV files. The current CSV files are just dummy files
 
 Details are in [Solution Documentation.pdf](https://github.com/SamNgu/Grab-Challenge/blob/master/Solution%20Documentation.pdf)
+All Run Instruction Details are in [Run Instructions.pdf](https://github.com/SamNgu/Grab-Challenge/blob/master/Run%20Instructions.pdf)
 
 Run Instructions for Test Prediction:
 1. Installations:
